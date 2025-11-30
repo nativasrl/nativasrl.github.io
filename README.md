@@ -1,7 +1,7 @@
 # ThreeJS Nativa
 
 <p align="center">
-<img src="https://github.com/nativasrl/threejs-nativa/blob/main/nativa.png" width="300">
+<img src="https://github.com/nativasrl/nativasrl.github.io/blob/main/nativa.png" width="300">
 </p>
 
 ThreeJS Nativa Site
